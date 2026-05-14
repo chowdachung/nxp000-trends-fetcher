@@ -34,5 +34,5 @@ Automated log of trending GitHub repositories, deduplicated across runs.
 
 ## App proposals
 
-- [2026-05-13](proposals/2026-05-13.md)
+- [2026-05-14](proposals/2026-05-14.md)
 - [2026-04-22](proposals/2026-04-22.md)
