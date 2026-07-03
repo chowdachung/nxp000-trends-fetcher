@@ -9,6 +9,7 @@ Automated log of trending GitHub repositories, deduplicated across runs.
 
 ## Daily logs
 
+- [2026-07-03](trends/2026-07-03.md)
 - [2026-07-02](trends/2026-07-02.md)
 - [2026-07-01](trends/2026-07-01.md)
 - [2026-06-30](trends/2026-06-30.md)
