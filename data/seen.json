@@ -3255,6 +3255,7 @@
   "azkaabds/CrewBeacon",
   "azkaabds/CrewBot",
   "azkaabds/CrewBrain",
+  "azkaabds/CrewNeural",
   "azura64bit/Hardware_Info_Viewer",
   "azw413/Glass",
   "b-nnett/codex-plusplus",
