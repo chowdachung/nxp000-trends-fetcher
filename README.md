@@ -9,6 +9,7 @@ Automated log of trending GitHub repositories, deduplicated across runs.
 
 ## Daily logs
 
+- [2026-09-26](trends/2026-09-26.md)
 - [2026-09-25](trends/2026-09-25.md)
 - [2026-09-24](trends/2026-09-24.md)
 - [2026-09-23](trends/2026-09-23.md)
@@ -169,5 +170,5 @@ Automated log of trending GitHub repositories, deduplicated across runs.
 
 ## App proposals
 
-- [2026-09-25](proposals/2026-09-25.md)
+- [2026-09-26](proposals/2026-09-26.md)
 - [2026-04-22](proposals/2026-04-22.md)
