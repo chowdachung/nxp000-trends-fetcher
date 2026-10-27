@@ -2439,6 +2439,7 @@
   "NVIDIA-Omniverse/content-agents",
   "NVIDIA-Omniverse/usd-brep",
   "NVIDIA/flare-local-inference",
+  "NVIDIA/local-inference",
   "NVlabs/SpatialClaw",
   "NX-AI/tirex-2",
   "NaGaa95/DrasticDS_nx",
